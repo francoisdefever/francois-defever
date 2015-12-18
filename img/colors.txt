@@ -1,0 +1,6 @@
+Google:
+#458FF5 blue
+#34A853 green
+#FABC05 yellow
+#EE4335 red
+#F3F3F3 white
