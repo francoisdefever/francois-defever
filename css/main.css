@@ -5,21 +5,25 @@
    ========================================================================== */
 /* -------------------------------- index ----------------------------------- */
 body {
-    background-color: #F3F3F3;
+    background-color: #FEF2D8;
+
 }
 
 .navbar-fixed-top {
-    background-color: #F3F3F3;
-    color: darkgray;
+    background-color: #FEF2D8;
 }
 
 .navbar-brand {
-    
-    color: darkgray;
+    font-family: "Oswald";
+    color: #036F73;
 }
 
 .jumbotron {
-    background-color: #F3F3F3;
+    background-color: #036F73;
+    color: #FEF2D8;
+    font-family: "Oswald";
 
 }
+
+
 /* -------------------------------- /index ---------------------------------- */

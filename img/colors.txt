@@ -1,6 +1,13 @@
-Google:
+Google Theme :
 #458FF5 blue
 #34A853 green
 #FABC05 yellow
 #EE4335 red
 #F3F3F3 white
+
+Winter Theme :
+#036F73 dark blue
+#84CDC2 light blue
+#FEF2D8 cream white
+#F18C79 light red
+#EF504F dark red
