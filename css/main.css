@@ -14,7 +14,7 @@ body {
 }
 
 .navbar-brand {
-    font-family: "Oswald";
+    background-color: #FEF2D8;
     color: #036F73;
 }
 
@@ -23,6 +23,22 @@ body {
     color: #FEF2D8;
     font-family: "Oswald";
 
+}
+.thumbnail {
+    background-color: #FEF2D8;
+    color: #036F73;
+    font-family: "Oswald";
+}
+.thumbnail p {
+    color: #036F73;
+}
+
+.header-content-inner {
+    color: #F18C79;
+}
+
+h3 {
+    text-align: center;
 }
 
 
