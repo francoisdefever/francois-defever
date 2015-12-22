@@ -9,12 +9,10 @@ body {
 
 }
 
-.navbar-fixed-top {
-    background-color: #FEF2D8;
+.navbar {
+    font-family: "Oswald";
 }
-
-.navbar-brand {
-    background-color: #FEF2D8;
+.container-fluid {
     color: #036F73;
 }
 
