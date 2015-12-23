@@ -42,17 +42,19 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    font-family: "Ubuntu", 'Open Sans','Helvetica Neue',Arial,sans-serif;
 }
 
 p {
     margin-bottom: 20px;
     font-size: 16px;
     line-height: 1.5;
+    font-family: "Ubuntu", 'Open Sans','Helvetica Neue',Arial,sans-serif;
+
 }
 
 .bg-primary {
-    background-color: #f05f40;
+    background-color: #036F73;
 }
 
 .bg-dark {
@@ -78,7 +80,7 @@ aside {
 
 .navbar-default {
     border-color: rgba(34,34,34,.05);
-    font-family: "Oswald", 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    font-family: "Ubuntu", 'Open Sans','Helvetica Neue',Arial,sans-serif;
     background-color: #fff;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
@@ -87,7 +89,7 @@ aside {
 
 .navbar-default .navbar-header .navbar-brand {
     text-transform: uppercase;
-    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    font-family: "Ubuntu",'Open Sans','Helvetica Neue',Arial,sans-serif;
     font-weight: 700;
     color: #f05f40;
 }
@@ -178,7 +180,7 @@ header {
     min-height: auto;
     text-align: center;
     color: #036F73;
-    background-image: url(../img/pattern2.jpg);
+    background-image: url(../img/brick2.jpg);
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -291,7 +293,7 @@ header .header-content .header-content-inner p {
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category,
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
     padding: 0 15px;
-    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    font-family: "Ubuntu",'Open Sans','Helvetica Neue',Arial,sans-serif;
 }
 
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
@@ -441,7 +443,7 @@ fieldset[disabled] .btn-primary.active {
     border: 0;
     border-radius: 300px;
     text-transform: uppercase;
-    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    font-family: "Ubuntu",'Open Sans','Helvetica Neue',Arial,sans-serif;
     font-weight: 700;
 }
 
