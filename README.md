@@ -1,3 +1,6 @@
+#Francois DEFEVER
+Il s'agit de mon premier projet hors formation sur une base Boilerplate + Bootstrap. 
+
 # Meet  [Devicons](http://vorillaz.github.io/devicons/)
 ### an iconic font made for developers, code jedis, ninjas, HTTPsters, evangelists and nerds.
 
