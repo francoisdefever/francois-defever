@@ -6,11 +6,10 @@
 /* -------------------------------- index ----------------------------------- */
 body {
     background-color: #FEF2D8;
-
 }
 
 .navbar {
-    font-family: "Oswald";
+    font-family: "Raleway";
 }
 .container-fluid {
     color: #036F73;
@@ -19,16 +18,19 @@ body {
 .jumbotron {
     background-color: #036F73;
     color: #FEF2D8;
-    font-family: "Oswald";
+    font-family: "Raleway";
 
 }
 .thumbnail {
     background-color: #FEF2D8;
     color: #036F73;
-    font-family: "Oswald";
+    font-family: "Raleway";
 }
 .thumbnail p {
     color: #036F73;
+}
+p {
+    font-size: 1,5em;
 }
 
 .header-content-inner {
