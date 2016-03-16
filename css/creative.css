@@ -11,7 +11,7 @@ body {
 }
 
 body {
-    font-family: Merriweather,'Helvetica Neue',Arial,sans-serif;
+    font-family: 'Raleway', Merriweather,'Helvetica Neue',Arial,sans-serif;
 }
 
 hr {
@@ -42,14 +42,14 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Ubuntu", 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    font-family: 'Raleway', "Ubuntu", 'Open Sans','Helvetica Neue',Arial,sans-serif;
 }
 
 p {
     margin-bottom: 20px;
     font-size: 16px;
     line-height: 1.5;
-    font-family: "Ubuntu", 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    font-family: 'Raleway', "Ubuntu", 'Open Sans','Helvetica Neue',Arial,sans-serif;
 
 }
 
